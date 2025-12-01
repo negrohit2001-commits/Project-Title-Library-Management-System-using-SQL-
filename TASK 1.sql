@@ -155,7 +155,7 @@ HAVING
     
 
    
-
+--Analytical Query
 
   SELECT
     DATE_FORMAT(BORROW_DATE, '%Y-%m') AS BorrowMonth,
